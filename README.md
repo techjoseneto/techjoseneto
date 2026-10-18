@@ -1,6 +1,7 @@
 # Hi, I'm José 👋
 
-Computer Science student at the University of Brasília (UnB) and full stack developer at CJR. I build web apps with Next.js, NestJS, and PostgreSQL, and I'm learning data and automation. I also help train new members at CJR.
+Computer Science student at the University of Brasília (UnB) and full stack developer at CJR, where I also help train new members. I build web apps with Next.js, NestJS, and PostgreSQL, and I'm learning data and automation.
+
 ## Technologies
 
 ![Stack](https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,postgres,prisma,c,git)
